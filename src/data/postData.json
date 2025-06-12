@@ -1,0 +1,34 @@
+[
+    {
+        "titulo": "Dragon Ball (1986-1989):",
+        "imgPortada": "https://i.pinimg.com/736x/81/16/d8/8116d86a0e1adc035210ccbc35b151b8.jpg",
+        "info": "Su trama describe las aventuras de Gokū, un guerrero saiyajin, experto en artes marciales que en su infancia inicia sus viajes y aventuras en las que pone a prueba y mejora sus habilidades de pelea, enfrentando oponentes y protegiendo a la Tierra de otros seres que quieren conquistarla y exterminar a la humanidad.",
+        "LogoAutor": "https://i.pinimg.com/736x/4a/12/55/4a125511cefd0520a8af492bce0aa343.jpg",
+        "NombreAutor": "Kame-Sennin",
+        "TituloAutor": "Maestro de artes marciales"
+    },
+    {
+        "titulo": "Dragon Ball Z (1989-1996):",
+        "imgPortada": "https://m.media-amazon.com/images/M/MV5BN2VlNTdlMzQtYzE5OC00YmYwLTgyZTItYjEzMWY0ZDNjMTJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "info": "Esta serie, que continúa la historia de Dragon Ball, se centra en la evolución de los Guerreros Z, incluyendo a Goku, Piccolo, Krilin, Vegeta y otros personajes, y presenta nuevos villanos y desafíos. Goku se convierte en un poderoso guerrero, defendiendo la Tierra de amenazas cada vez mayores.",
+        "LogoAutor": "https://i.blogs.es/c2368c/dragon-ball-kaio-ken/1366_2000.jpeg",
+        "NombreAutor": "Kaio-sama",
+        "TituloAutor": "Dios encargado de administrar las Galaxias del Norte"
+    },
+    {
+        "titulo": "Dragon Ball Super (2015-2018):",
+        "imgPortada": "https://rukminim3.flixcart.com/image/850/1000/xif0q/poster/q/w/y/medium-goku-dragon-ball-z-hd-matte-finish-poster-gebutcte4238-original-imaghe3yz6wr36mn.jpeg?q=90&crop=false",
+        "info": "Esta serie continúa la historia de Dragon Ball Z, presentando nuevas sagas y desafíos, incluyendo la aparición del Dios de la Destrucción Bills y otros personajes. Goku continúa entrenando y enfrentándose a oponentes más poderosos, incluyendo el Torneo de la Fuerza y la confrontación con Black Goku y Trunks del futuro.",
+        "LogoAutor": "https://areajugones.sport.es/wp-content/uploads/2017/11/Beerus.png",
+        "NombreAutor": "Beerus",
+        "TituloAutor": "Dios de la destruccion (universo 7)"
+    },
+    {
+        "titulo": "Dragon Ball GT (1996-1997):",
+        "imgPortada": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p228797_b_v8_ab.jpg",
+        "info": "Dragon Ball GT es una serie de anime que continúa la historia de Dragon Ball Z, con una trama original. En ella, Goku es transformado en niño por el Emperador Pilaf y se embarca en una búsqueda para recolectar las Esferas del Dragón Estrella Negra, enfrentando a diversos enemigos poderosos.",
+        "LogoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt8GIjiJq6un3GhmDWTgXwlBVhKTObVCEPig&s",
+        "NombreAutor": "Piccolo",
+        "TituloAutor": "Gran Rey Demonio"
+    }
+]
