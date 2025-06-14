@@ -3,6 +3,7 @@ import './index.css'
 import Pelicula from './Pelicula.jsx'
 import Encabezado from './Encabezado.jsx'
 import ListaPeliculas from './data/postData.json'
+import Hooks from './Hooks.jsx'
 
 createRoot(document.getElementById('root'))
 .render(
@@ -54,5 +55,7 @@ createRoot(document.getElementById('root'))
       />     */}
     </div>
     
+    <Hooks/>
+
   </div>
 )
