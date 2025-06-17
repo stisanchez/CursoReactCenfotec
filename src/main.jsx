@@ -1,13 +1,16 @@
 import { createRoot } from 'react-dom/client'
 import './index.css'
-import Pelicula from './Pelicula.jsx'
-import Encabezado from './Encabezado.jsx'
 import ListaPeliculas from './data/postData.json'
-import Hooks from './Hooks.jsx'
+import Pelicula from './PeliculasCards/Pelicula.jsx'
+import Encabezado from './PeliculasCards/Encabezado.jsx'
+import Hooks from './Hooks/Hooks.jsx'
+import UseEffect from './Hooks/userEffect.jsx'
+import UseEffectApi  from './Hooks/UseEffectApi.jsx'
 
 createRoot(document.getElementById('root'))
 .render(
   <div className="contenedor">
+
     <Encabezado/>
     <div className="contenido">
       {
@@ -55,7 +58,9 @@ createRoot(document.getElementById('root'))
       />     */}
     </div>
     
-    <Hooks/>
+    {/* <Hooks/> */}
+    {/* <UseEffect/> */}
+    {/* <UseEffectApi/> */}
 
   </div>
 )

@@ -61,7 +61,7 @@ span {
 
 .contenedor .contenido .card .ilustracion img {
   width: 200px;
-  height: 233px;
+  height: 395px;
   aspect-ratio: 1/1;
   object-fit: fill;
   border-bottom-left-radius: 4%;
@@ -97,6 +97,10 @@ span {
   background: #072083;
   color: white;
   border-radius: 5px;
+}
+
+.contenedor .contenido .card .descripcion .desc-body{
+  margin: auto
 }
 
 .contenedor .contenido .card .descripcion .desc-body span {

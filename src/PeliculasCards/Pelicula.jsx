@@ -1,5 +1,5 @@
 import React from 'react'
-import './index.css'
+import '../index.css'
 import Autor from './Autor'
 import DescPelicula from './DescPelicula'
 import EncabezadoCard from './EncabezadoCard'
