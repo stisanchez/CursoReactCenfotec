@@ -5,7 +5,6 @@ function UseEffectApi_Mult() {
   const [id, setId] = useState(1)
   const handleClick = () => {
   }
-
   useEffect(() => {
     fetch("https://dragonball-api.com/api/characters")
       .then(res => res.json())
@@ -17,7 +16,6 @@ function UseEffectApi_Mult() {
         console.log(err);
       });
   }, []);
-
   return (
     <div>
       <h1>UseEffect Multiple</h1>
