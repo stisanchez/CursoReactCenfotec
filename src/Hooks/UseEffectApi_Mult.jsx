@@ -25,7 +25,7 @@ function UseEffectApi_Mult() {
       {
         posts.map((data, index) => {
         //   alert(index + ' ' + data.name)
-         <span>{index + ' ' + data.name}</span>
+         <span>{index} - {data.name}</span>
         //   console.log(index+' '+data.name)
         //   <div>
         //    <span>FILA</span>
