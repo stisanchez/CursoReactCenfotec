@@ -1,5 +1,5 @@
 import { createRoot } from 'react-dom/client'
-import './index.css'
+import './CSS/indexGeneral.css'
 import ListaPeliculas from './data/postData.json'
 import Pelicula from './PeliculasCards/Pelicula.jsx'
 import Encabezado from './PeliculasCards/Encabezado.jsx'
@@ -27,7 +27,7 @@ createRoot(document.getElementById('root'))
     
     {/* <Hooks/> */}
     {/* <UseEffect/> */}
-    <UseEffectApi_Indv/>
+    {/* <UseEffectApi_Indv/> */}
     <UseEffectApi_Mult/>
   </div>
 )

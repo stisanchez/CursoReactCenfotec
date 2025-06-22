@@ -1,5 +1,5 @@
 import React from 'react'
-import '../index.css'
+import '../CSS/primerosCards.css'
 import Autor from './Autor'
 import DescPelicula from './DescPelicula'
 import EncabezadoCard from './EncabezadoCard'
